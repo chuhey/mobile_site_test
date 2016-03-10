@@ -8,3 +8,8 @@
 .element {
     .center-block();
 }
+
+.btn {
+    align: center;
+
+}
